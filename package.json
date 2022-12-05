@@ -21,5 +21,8 @@
         "readonly": false
       }
     }
+  },
+  "dependencies": {
+    "mobx": "^6.7.0"
   }
 }
